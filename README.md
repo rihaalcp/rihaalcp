@@ -1,291 +1,268 @@
-# MOHAMMED RIHAAL CP
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2500&pause=1000&center=true&vCenter=true&width=1000&lines=MOHAMMED+RIHAAL+CP;Flutter+Developer;Mobile+Application+Developer;Building+Beautiful+Flutter+Experiences;Crafting+Modern+Mobile+Applications" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rihaalcp&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/rihaalcp?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Flutter%20Developer&fontSize=50&animation=fadeIn" />
-
-</div>
-
----
-
-## ABOUT ME
-
-Flutter Developer passionate about building modern, scalable, and user-friendly mobile applications.
-
-Focused on:
-
-* Flutter Application Development
-* Responsive UI Design
-* REST API Integration
-* Firebase Services
-* State Management
-* Clean Architecture
-* Performance Optimization
-* Cross Platform Applications
-
----
-
-## FLUTTER TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,vscode,figma" />
-
-</div>
-
----
-
-## FLUTTER SKILL MATRIX
-
-| Skill                  | Level                |
-| ---------------------- | -------------------- |
-| Flutter UI Development | ████████████████████ |
-| Dart Programming       | ██████████████████   |
-| Firebase               | ████████████████     |
-| REST APIs              | ██████████████████   |
-| State Management       | █████████████████    |
-| App Optimization       | ███████████████      |
-| Responsive Design      | ███████████████████  |
-
----
-
-## CURRENT PROJECT
-
-# SkySync
-
-Modern Weather & News Application built using Flutter.
-
-### Features
-
-* Real-Time Weather
-* 7 Day Forecast
-* News Categories
-* Search Cities
-* Location Based Weather
-* Modern User Interface
-* API Integration
-* Responsive Design
-
-### Technologies
-
-```yaml
-Flutter
-Dart
-Provider
-Weather API
-News API
-Firebase
-HTTP
-Shared Preferences
-```
-
----
-
-## FLUTTER DEVELOPMENT JOURNEY
-
-```text
-Flutter SDK
-    │
-    ▼
-Dart Programming
-    │
-    ▼
-UI Development
-    │
-    ▼
-State Management
-    │
-    ▼
-API Integration
-    │
-    ▼
-Firebase Services
-    │
-    ▼
-Clean Architecture
-    │
-    ▼
-Production Applications
-```
-
----
-
-## GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rihaalcp&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rihaalcp&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-## MOST USED LANGUAGES
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihaalcp&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-## CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rihaalcp&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-## CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## CONTRIBUTION PACMAN
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/rihaalcp/rihaalcp/output/pacman-contribution-graph-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/rihaalcp/rihaalcp/output/pacman-contribution-graph.svg">
-
-<img alt="Pacman contribution graph"
-src="https://raw.githubusercontent.com/rihaalcp/rihaalcp/output/pacman-contribution-graph.svg"> </picture>
-
-</div>
-
----
-
-## GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rihaalcp&column=7&no-frame=true" />
-
-</div>
-
----
-
-## DEVELOPMENT WORKFLOW
-
-```text
-Requirement Analysis
-         │
-         ▼
-Planning
-         │
-         ▼
-UI Design
-         │
-         ▼
-Development
-         │
-         ▼
-Testing
-         │
-         ▼
-Optimization
-         │
-         ▼
-Deployment
-```
-
----
-
-## CURRENT FOCUS
-
-```yaml
-Flutter:
-  - Advanced UI Development
-  - Animations
-  - Custom Widgets
-
-Backend:
-  - Firebase
-  - REST APIs
-
-Learning:
-  - Clean Architecture
-  - Performance Optimization
-  - Production Ready Applications
-
-Goal:
-  - Become Expert Flutter Developer
-```
-
----
-
-## CODING SUMMARY
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rihaalcp&theme=github_dark" />
-
-</div>
-
----
-
-## FLUTTER QUOTE
+## FLUTTER DEVELOPMENT PHILOSOPHY
 
 ```dart
-void main() {
-  runApp(
-    FlutterDeveloper(
-      passion: "Mobile Innovation",
-      focus: "Beautiful User Experiences",
-      goal: "Production Ready Applications",
-    ),
-  );
+class FlutterDeveloper {
+  final String name = "Mohammed Rihaal CP";
+
+  final List<String> strengths = [
+    "UI Development",
+    "API Integration",
+    "Responsive Design",
+    "Firebase",
+    "State Management"
+  ];
+
+  String goal() {
+    return "Building beautiful mobile experiences";
+  }
 }
 ```
 
 ---
 
-## CONNECT
+## FLUTTER EXPERTISE
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/rihaalcp">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+### UI & DESIGN
 
-<a href="https://linkedin.com/in/mohammed-rihaal">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+* Material Design 3
+* Custom Widgets
+* Responsive Layouts
+* Dark Mode Support
+* Animations
+* Navigation Systems
 
-</div>
+</td>
+
+<td width="50%">
+
+### APPLICATION LOGIC
+
+* Provider
+* Riverpod Learning
+* API Integration
+* JSON Serialization
+* Error Handling
+* Local Storage
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+## FLUTTER ECOSYSTEM
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer"/>
+```text
+Flutter
+│
+├── Dart
+├── Firebase
+├── REST APIs
+├── Local Storage
+├── Authentication
+├── State Management
+├── Notifications
+├── Animations
+└── Deployment
+```
 
-</div>
+---
+
+## DAILY WORKFLOW
+
+```text
+Coffee
+  │
+  ▼
+Planning
+  │
+  ▼
+UI Design
+  │
+  ▼
+Flutter Coding
+  │
+  ▼
+Debugging
+  │
+  ▼
+Testing
+  │
+  ▼
+Deployment
+```
+
+---
+
+## APPLICATION TYPES
+
+□ Weather Applications
+
+□ News Applications
+
+□ Business Applications
+
+□ Productivity Apps
+
+□ Portfolio Applications
+
+□ Educational Applications
+
+□ Utility Applications
+
+□ Dashboard Applications
+
+---
+
+## CURRENT LEARNING PATH
+
+```text
+Flutter Fundamentals      ████████████████████ 100%
+Dart Programming          ████████████████████ 100%
+API Integration           ██████████████████░░ 90%
+Firebase                  █████████████████░░░ 85%
+State Management          █████████████████░░░ 85%
+Clean Architecture        ███████████████░░░░░ 75%
+Advanced Animations       ██████████████░░░░░░ 70%
+```
+
+---
+
+## APP DEVELOPMENT LIFECYCLE
+
+```text
+Idea
+ │
+ ▼
+Research
+ │
+ ▼
+Wireframe
+ │
+ ▼
+Design
+ │
+ ▼
+Development
+ │
+ ▼
+Testing
+ │
+ ▼
+Release
+ │
+ ▼
+Updates
+```
+
+---
+
+## DEVICE SUPPORT
+
+Android
+
+Tablet
+
+Desktop
+
+Web
+
+---
+
+## PROJECT SHOWCASE
+
+### SkySync
+
+Weather and News Platform
+
+Features:
+
+* Live Weather
+* Forecast Reports
+* News Categories
+* Search Functionality
+* Modern Interface
+* Location Services
+* API Integration
+
+Technology:
+
+Flutter • Dart • Provider • Firebase
+
+---
+
+## DEVELOPMENT STANDARDS
+
+* Clean Code
+* Reusable Components
+* Responsive Design
+* Performance Optimization
+* User Friendly Interfaces
+* Maintainable Architecture
+* Secure API Usage
+
+---
+
+## FUTURE GOALS
+
+```text
+2026
+│
+├── Publish Flutter Apps
+├── Master Clean Architecture
+├── Build Advanced UI Systems
+├── Learn Advanced Firebase
+├── Open Source Contributions
+├── Flutter Package Development
+└── Professional Mobile Development
+```
+
+---
+
+## SYSTEM STATUS
+
+```yaml
+Developer: Mohammed Rihaal CP
+
+Status: Online
+
+Current Focus:
+  - Flutter Development
+  - Mobile Applications
+  - UI Design
+
+Project:
+  - SkySync
+
+Mode:
+  - Learning
+  - Building
+  - Improving
+```
+
+---
+
+## FAVORITE FLUTTER PACKAGES
+
+```yaml
+provider
+http
+cached_network_image
+firebase_core
+firebase_auth
+cloud_firestore
+shared_preferences
+intl
+lottie
+flutter_svg
+```
+
+---
+
+## FLUTTER MISSION
+
+"Creating modern, performant, and user-friendly applications that deliver meaningful experiences."
