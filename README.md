@@ -1,40 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2000&pause=1000&center=true&vCenter=true&width=1000&lines=MOHAMMED+RIHAAL+CP;Flutter+Developer;Mobile+Application+Developer;Crafting+Beautiful+Flutter+Experiences" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=MOHAMMED%20RIHAAL%20CP&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=40" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&center=true&vCenter=true&width=1000&color=38BDF8&lines=Flutter+Developer;Mobile+Application+Developer;Building+Beautiful+Flutter+Experiences;Crafting+Modern+Mobile+Applications" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rihaalcp&style=for-the-badge&color=0e75b6" />
+<img src="https://img.shields.io/github/followers/rihaalcp?style=for-the-badge&color=2563EB" />
 
 </div>
 
 ---
 
-# FLUTTER DEVELOPER
+<div align="center">
 
-Focused on building high-performance Flutter applications with clean architecture, responsive user interfaces, API integrations, Firebase services, and modern mobile experiences.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-8a6f6b58-5a79-4f7c-bf3d-df8b3d0a72d4.gif" width="100%">
+
+</div>
 
 ---
 
-# FLUTTER ROADMAP
+# ABOUT
 
-```text
-Flutter SDK
-    │
-    ├── Dart Programming
-    │
-    ├── UI Development
-    │
-    ├── State Management
-    │
-    ├── API Integration
-    │
-    ├── Firebase Services
-    │
-    ├── Local Storage
-    │
-    ├── Clean Architecture
-    │
-    ├── Performance Optimization
-    │
-    └── Production Deployment
-```
+Flutter Developer focused on building scalable, responsive, and modern mobile applications with clean architecture and beautiful UI.
 
 ---
 
@@ -48,44 +37,56 @@ Flutter SDK
 
 ---
 
-# FLUTTER SKILLS
+# DEVELOPMENT STATUS
 
-<table>
-<tr>
-<td>
+```yaml
+Developer: Mohammed Rihaal CP
 
-UI Development
+Status: Active
 
-██████████████████ 95%
+Current Project:
+  - SkySync
 
-</td>
-<td>
+Current Focus:
+  - Flutter Development
+  - Mobile UI Design
+  - Firebase Integration
 
-API Integration
+Learning:
+  - Clean Architecture
+  - Advanced Animations
+  - Performance Optimization
+````
 
-████████████████░░ 90%
+---
 
-</td>
-</tr>
+# CODING ANIMATION
 
-<tr>
-<td>
+<div align="center">
 
-Firebase
+<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-740f-4f7b-9a3f-4f8b87f84d2b.gif" width="600">
 
-███████████████░░░ 85%
+</div>
 
-</td>
-<td>
+---
 
-State Management
+# FLUTTER ROADMAP
 
-████████████████░░ 90%
-
-</td>
-</tr>
-
-</table>
+```text
+Flutter SDK
+    │
+    ├── Dart Programming
+    ├── Widget System
+    ├── UI Development
+    ├── State Management
+    ├── API Integration
+    ├── Firebase
+    ├── Local Storage
+    ├── Animations
+    ├── Clean Architecture
+    ├── Performance Optimization
+    └── Production Deployment
+```
 
 ---
 
@@ -93,37 +94,51 @@ State Management
 
 ## SkySync
 
-Weather & News Application
+Modern Weather & News Application built using Flutter.
 
-Features
+### Features
 
-- Weather Forecast
-- Live News Updates
-- Category News
-- Search Cities
-- Responsive Design
-- Modern UI
-- Location Services
+* Real-Time Weather
+* 7 Day Forecast
+* News Categories
+* Search Cities
+* Location Services
+* API Integration
+* Responsive Design
+* Modern UI
 
 ---
 
-# FLUTTER ANALYTICS
+# FLUTTER SKILLS
+
+| Skill                  | Level                |
+| ---------------------- | -------------------- |
+| Flutter UI Development | ████████████████████ |
+| Dart Programming       | ███████████████████  |
+| Firebase               | █████████████████    |
+| REST APIs              | ███████████████████  |
+| State Management       | ██████████████████   |
+| Responsive Design      | ███████████████████  |
+
+---
+
+# GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rihaalcp&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rihaalcp&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rihaalcp&theme=transparent&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rihaalcp&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# LANGUAGE STATS
+# LANGUAGE STATISTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihaalcp&layout=compact&hide_border=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihaalcp&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -133,7 +148,7 @@ Features
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rihaalcp&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rihaalcp&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -143,7 +158,33 @@ Features
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# TECH UNIVERSE
+
+```text
+                    Flutter
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+      Dart         Firebase      UI Design
+        │              │              │
+      APIs      Authentication   Responsive
+        │              │              │
+      Apps         Database      Experience
+```
+
+---
+
+# MATRIX ANIMATION
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284068-6b6d0f9e-f2d2-4b0a-9b73-5dff5b98f73b.gif" width="700">
 
 </div>
 
@@ -153,41 +194,61 @@ Features
 
 ```text
 2025
- │
- ├── Started Flutter
- │
- ├── Learned Dart
- │
- ├── Built Weather Apps
- │
- ├── Firebase Integration
- │
- ├── State Management
- │
- └── Mobile UI Design
+│
+├── Started Flutter
+├── Learned Dart
+├── Built Weather Apps
+├── Firebase Integration
+├── State Management
+└── Mobile UI Design
 
 2026
- │
- ├── Advanced Flutter
- │
- ├── Production Apps
- │
- ├── Clean Architecture
- │
- ├── App Optimization
- │
- └── Open Source Contributions
+│
+├── Advanced Flutter
+├── Production Apps
+├── Clean Architecture
+├── App Optimization
+└── Open Source Contributions
 ```
 
 ---
 
-# CODING ACTIVITY
+# CONTRIBUTION SUMMARY
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rihaalcp&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rihaalcp&theme=tokyonight"/>
 
 </div>
+
+---
+
+# LANGUAGE METRICS
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rihaalcp&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rihaalcp&theme=tokyonight"/>
+
+</div>
+
+---
+
+# DEVELOPER TERMINAL
+
+```text
+> flutter doctor
+
+[✓] Flutter SDK
+[✓] Android Toolchain
+[✓] Chrome
+[✓] VS Code
+
+No issues found.
+
+Ready for development.
+```
 
 ---
 
@@ -195,7 +256,7 @@ Features
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rihaalcp&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rihaalcp&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -205,8 +266,6 @@ Features
 
 ```dart
 void main() {
-  const developer = "Mohammed Rihaal CP";
-
   runApp(
     FlutterDeveloper(
       passion: "Building Beautiful Apps",
@@ -219,11 +278,27 @@ void main() {
 
 ---
 
+# CONNECT
+
+<div align="center">
+
+<a href="https://github.com/rihaalcp">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/mohammed-rihaal">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
+
+---
+
 # PROFILE VISITOR
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rihaalcp&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=rihaalcp&style=for-the-badge&color=38BDF8"/>
 
 </div>
 
@@ -231,6 +306,6 @@ void main() {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:0F172A,50:2563EB,100:38BDF8" />
 
 </div>
