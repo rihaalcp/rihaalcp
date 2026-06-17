@@ -149,17 +149,6 @@ Features
 
 ---
 
-```md
-# MINESWEEPER ANIMATION
-
-<div align="center">
-
-<img src="https://media.tenor.com/4M7IWw4dT5QAAAAC/minesweeper.gif" width="500"/>
-
-</div>
-```
-
-
 # FLUTTER JOURNEY
 
 ```text
