@@ -7,7 +7,6 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=rihaalcp&style=for-the-badge&color=0e75b6" />
-<img src="https://img.shields.io/github/followers/rihaalcp?style=for-the-badge&color=2563EB" />
 
 </div>
 
