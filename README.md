@@ -30,7 +30,7 @@ Flutter Developer focused on building scalable, responsive, and modern mobile ap
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,vscode" />
 
 </div>
 
@@ -49,7 +49,6 @@ Current Project:
 Current Focus:
   - Flutter Development
   - Mobile UI Design
-  - Firebase Integration
 
 Learning:
   - Clean Architecture
@@ -79,7 +78,6 @@ Flutter SDK
     ├── UI Development
     ├── State Management
     ├── API Integration
-    ├── Firebase
     ├── Local Storage
     ├── Animations
     ├── Clean Architecture
@@ -114,7 +112,6 @@ Modern Weather & News Application built using Flutter.
 | ---------------------- | -------------------- |
 | Flutter UI Development | ████████████████████ |
 | Dart Programming       | ███████████████████  |
-| Firebase               | █████████████████    |
 | REST APIs              | ███████████████████  |
 | State Management       | ██████████████████   |
 | Responsive Design      | ███████████████████  |
@@ -170,11 +167,11 @@ Modern Weather & News Application built using Flutter.
                        │
         ┌──────────────┼──────────────┐
         │              │              │
-      Dart         Firebase      UI Design
+      Dart            Git         UI Design
         │              │              │
-      APIs      Authentication   Responsive
+      APIs        Version Control Responsive
         │              │              │
-      Apps         Database      Experience
+      Apps      Collaboration   Experience
 ```
 
 ---
@@ -197,7 +194,6 @@ Modern Weather & News Application built using Flutter.
 ├── Started Flutter
 ├── Learned Dart
 ├── Built Weather Apps
-├── Firebase Integration
 ├── State Management
 └── Mobile UI Design
 
