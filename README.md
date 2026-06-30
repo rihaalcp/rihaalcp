@@ -169,7 +169,7 @@ Modern Weather & News Application built using Flutter.
         │              │              │
       Dart            Git         UI Design
         │              │              │
-      APIs        Version Control Responsive
+      APIs      Version Control   Responsive
         │              │              │
       Apps      Collaboration   Experience
 ```
